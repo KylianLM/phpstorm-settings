@@ -3,7 +3,7 @@
     <property name="created">2019-06-11T14:18:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-05-31T01:27:15</property>
+    <property name="modified">2020-12-01T11:51:49</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -528,7 +528,6 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="fcbc05" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
