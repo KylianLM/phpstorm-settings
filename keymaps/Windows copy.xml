@@ -16,5 +16,11 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
